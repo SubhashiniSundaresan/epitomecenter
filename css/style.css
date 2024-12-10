@@ -7452,9 +7452,6 @@ button.bg-dark:focus {
 
 .position-sticky {
   position: sticky !important;
-  top: 0;
-  overflow: hidden;
-  z-index: 1000;
 }
 
 .fixed-top {
